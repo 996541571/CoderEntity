@@ -1,0 +1,15 @@
+//
+//  AutoCoderEntity
+//
+//  Created by 王家俊实体生成器
+//  Copyright (c) 2016年 ken All rights reserved.
+//  本类由工具自动生成
+
+#import "#name#.h"
+
+@implementation #name#
+
+#code#
+
+@end
+
